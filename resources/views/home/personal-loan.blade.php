@@ -55,21 +55,21 @@
         <div class="row align-items-center">
 
             <div class="col-lg-4 col-md-4 text-center">
-                <img src="public/contents/synline/assets/img/other/consolidate.jpg" alt="image">
+                <img src="contents/synline/assets/img/other/consolidate.jpg" alt="image">
 
                 <h5>Consolidation</h5>
                 <p>Consolidating your higher interest debt into one convenient lower monthly payment.</p>
             </div>
 
             <div class="col-lg-4 col-md-4 text-center">
-                <img src="public/contents/synline/assets/img/other/events.jpg" alt="image">
+                <img src="contents/synline/assets/img/other/events.jpg" alt="image">
 
                 <h5>Life Events</h5>
                 <p>Paying for family reunions, weddings or even vacations.</p>
             </div>
 
             <div class="col-lg-4 col-md-4 text-center">
-                <img src="public/contents/synline/assets/img/other/financing.jpg" alt="image">
+                <img src="contents/synline/assets/img/other/financing.jpg" alt="image">
 
                 <h5>Financing</h5>
                 <p>Purchasing new appliances or making auto repairs.</p>

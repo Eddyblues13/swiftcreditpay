@@ -42,7 +42,7 @@
 
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
-                    <img src="public/contents/synline/assets/img/about-img1.jpg" alt="image">
+                    <img src="contents/synline/assets/img/about-img1.jpg" alt="image">
                 </div><!-- .about-image -->
             </div><!-- .col-lg-6 -->
         </div><!-- .row -->

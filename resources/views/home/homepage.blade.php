@@ -127,10 +127,10 @@
 
             <div class="overview-image">
                 <div class="image">
-                    <img src="public/contents/synline/assets/img/1.png" alt="image">
+                    <img src="contents/synline/assets/img/1.png" alt="image">
 
                     <div class="circle-img">
-                        <img src="public/contents/synline/assets/img/circle.png" alt="image">
+                        <img src="contents/synline/assets/img/circle.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -145,10 +145,10 @@
         <div class="overview-box">
             <div class="overview-image">
                 <div class="image">
-                    <img src="public/contents/synline/assets/img/2.png" alt="image">
+                    <img src="contents/synline/assets/img/2.png" alt="image">
 
                     <div class="circle-img">
-                        <img src="public/contents/synline/assets/img/circle.png" alt="image">
+                        <img src="contents/synline/assets/img/circle.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -197,18 +197,18 @@
             <div class="col-lg-6 col-md-12">
                 <div class="invoicing-image">
                     <div class="main-image">
-                        <img src="public/contents/synline/assets/img/3.png" alt="loan">
+                        <img src="contents/synline/assets/img/3.png" alt="loan">
 
                     </div>
 
                     <div class="main-mobile-image">
-                        <img src="public/contents/synline/assets/img/3.png" class="wow zoomIn" data-wow-delay="0.7s"
+                        <img src="contents/synline/assets/img/3.png" class="wow zoomIn" data-wow-delay="0.7s"
                             alt="image">
                     </div>
 
                     <div class="circle-image">
-                        <img src="public/contents/synline/assets/img/invoicing-image/circle1.png" alt="image">
-                        <img src="public/contents/synline/assets/img/invoicing-image/circle2.png" alt="image">
+                        <img src="contents/synline/assets/img/invoicing-image/circle1.png" alt="image">
+                        <img src="contents/synline/assets/img/invoicing-image/circle2.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -255,7 +255,7 @@
         </div>
 
         <div class="map-bg">
-            <img src="public/contents/synline/assets/img/map.png" alt="map">
+            <img src="contents/synline/assets/img/map.png" alt="map">
         </div>
     </div>
 </section>

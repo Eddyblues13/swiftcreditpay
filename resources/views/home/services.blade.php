@@ -65,7 +65,7 @@
 
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
-                    <img src="public/contents/synline/assets/img/pic-s1.png" alt="image">
+                    <img src="contents/synline/assets/img/pic-s1.png" alt="image">
                 </div><!-- .about-image -->
             </div><!-- .col-lg-6 -->
 
@@ -97,7 +97,7 @@
 
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
-                    <img src="public/contents/synline/assets/img/pic-s3.png" alt="image">
+                    <img src="contents/synline/assets/img/pic-s3.png" alt="image">
                 </div><!-- .about-image -->
             </div><!-- .col-lg-6 -->
 

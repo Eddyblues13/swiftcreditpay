@@ -45,15 +45,8 @@
 
                     <ul class="footer-contact-info">
                         <li><span>Location: 221B Baker Street, London, NW1 6XE, United Kingdom</span> </li>
-
-
                         <li><span>Email:</span>
                             <a href="mailto:support@astrocrestonunion.com">support@astrocrestonunion.com</a>
-                        </li>
-                        <!--li><span>Phone:</span>
-                        <a href="tel: +1 404-XXX-5898"-->
-
-                        </a>
                         </li>
                     </ul>
                 </div>
@@ -65,42 +58,41 @@
         </div>
     </div>
 
-    <div class="map-image"><img src="public/contents/synline/assets/img/map.png" alt="map"></div>
+    <div class="map-image"><img src="{{ asset('contents/synline/assets/img/map.png') }}" alt="map"></div>
 </footer>
 <!-- End Footer Area -->
 
 <div class="go-top"><i class="fas fa-arrow-up"></i></div>
 
-
 <!-- jQuery Min JS -->
-<script src="public/contents/synline/assets/js/jquery.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/jquery.min.js') }}"></script>
 <!-- Popper Min JS -->
-<script src="public/contents/synline/assets/js/popper.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/popper.min.js') }}"></script>
 <!-- Bootstrap Min JS -->
-<script src="public/contents/synline/assets/js/bootstrap.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/bootstrap.min.js') }}"></script>
 <!-- Mean Menu JS -->
-<script src="public/contents/synline/assets/js/jquery.meanmenu.js"></script>
+<script src="{{ asset('contents/synline/assets/js/jquery.meanmenu.js') }}"></script>
 <!-- NiceSelect Min JS -->
-<script src="public/contents/synline/assets/js/jquery.nice-select.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/jquery.nice-select.min.js') }}"></script>
 <!-- Slick Min JS -->
-<script src="public/contents/synline/assets/js/slick.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/slick.min.js') }}"></script>
 <!-- Magnific Popup Min JS -->
-<script src="public/contents/synline/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/jquery.magnific-popup.min.js') }}"></script>
 <!-- Appear Min JS -->
-<script src="public/contents/synline/assets/js/jquery.appear.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/jquery.appear.min.js') }}"></script>
 <!-- Odometer Min JS -->
-<script src="public/contents/synline/assets/js/odometer.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/odometer.min.js') }}"></script>
 <!-- Parallax Min JS -->
-<script src="public/contents/synline/assets/js/parallax.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/parallax.min.js') }}"></script>
 <!-- WOW Min JS -->
-<script src="public/contents/synline/assets/js/wow.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/wow.min.js') }}"></script>
 <!-- Form Validator Min JS -->
-<script src="public/contents/synline/assets/js/form-validator.min.js"></script>
+<script src="{{ asset('contents/synline/assets/js/form-validator.min.js') }}"></script>
 <!-- Contact Form Min JS -->
-<script src="public/contents/synline/assets/js/contact-form-script.js"></script>
+<script src="{{ asset('contents/synline/assets/js/contact-form-script.js') }}"></script>
 <!-- Main JS -->
-<script src="public/contents/synline/assets/js/main.js"></script>
-<script src="public/contents/synline/assets/js/birthday.js"></script>
+<script src="{{ asset('contents/synline/assets/js/main.js') }}"></script>
+<script src="{{ asset('contents/synline/assets/js/birthday.js') }}"></script>
 
 </body>
 

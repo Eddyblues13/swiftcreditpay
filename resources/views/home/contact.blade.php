@@ -12,7 +12,7 @@
             <div id="google_translate_element" style="height:50px;"></div>
 
             <script type="text/javascript">
-            function googleTranslateElementInit() {
+                function googleTranslateElementInit() {
                 new google.translate.TranslateElement({
                     pageLanguage: 'en'
                 }, 'google_translate_element');
@@ -32,7 +32,8 @@
         <div class="section-title">
             <h2>Drop us a message for any query</h2>
             <div class="bar"></div>
-            <p align="justify">We’re happy to answer any questions you may have, just send us a message via our in-app chat support.
+            <p align="justify">We’re happy to answer any questions you may have, just send us a message via our in-app
+                chat support.
             </p>
         </div>
 
@@ -52,8 +53,8 @@
                             </div>
                             <span>Email</span>
 
-                            <a href="mailto:support@astrocrestonunion.com">support@astrocrestonunion.com</a>
-                            
+                            <a href="mailto:support@swiftcreditpay.com ">support@swiftcreditpay.com </a>
+
                         </li>
 
                         <li>
@@ -139,7 +140,7 @@
         </div>
     </div>
 
-    <div class="bg-map"><img src="public/contents/synline/assets/img/bg-map.png" alt="image"></div>
+    <div class="bg-map"><img src="contents/synline/assets/img/bg-map.png" alt="image"></div>
 </section> <!-- End Contact Area -->
 
 <!-- Start Account Create Area -->
@@ -148,7 +149,8 @@
         <div class="account-create-content">
             <h2>Apply for an account in minutes</h2>
             <p align="justify">
-            Open an account with ease through our online banking platform. With just a few clicks, you can apply in minutes, enjoy 24/7 access, and manage your finances from anywhere. Banking made simple and secure!</p>
+                Open an account with ease through our online banking platform. With just a few clicks, you can apply in
+                minutes, enjoy 24/7 access, and manage your finances from anywhere. Banking made simple and secure!</p>
             <a href="get-started.html" class="btn btn-primary">Get Started</a>
         </div>
     </div>

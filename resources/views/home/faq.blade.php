@@ -37,7 +37,7 @@
                         what you're looking for here, feel free to <a href="contact-2.html">Contact us</a>.</p>
 
                     <div class="faq-image">
-                        <img src="public/contents/synline/assets/img/faq.png" alt="image">
+                        <img src="contents/synline/assets/img/faq.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@
 
                             <p class="accordion-content">Charges can be disputed through Online Banking or by
                                 phone. To submit a dispute by phone, please contact our support via
-                                support@astrocrestonunion.com.</p>
+                                support@swiftcreditpay.com .</p>
                         </li>
 
                         <li class="accordion-item">
