@@ -8,7 +8,7 @@
                     <h1>THE FUTURE OF BANKING</h1>
                     <p>Banks will charge you when you spend or transfer money abroad. We're not about hidden fees or
                         silly exchange rates, and that's why 2M+ people already use Swift Credit Pay</p>
-                    <a href="get-started.html" class="btn btn-primary">Get Started</a>
+                    <a href="/register" class="btn btn-primary">Get Started</a>
 
                 </div>
                 <center>
@@ -190,7 +190,7 @@
                         life.</p>
                     <p>Whether you're looking to purchase a car, fund education, renovate your home, or grow your
                         business, our loans provide a fast and convenient solution to meet your financial needs.</p>
-                    <a href="get-started.html" class="btn btn-primary">Get Started</a>
+                    <a href="/register" class="btn btn-primary">Get Started</a>
                 </div>
             </div>
 
@@ -267,7 +267,7 @@
         <div class="account-create-content">
             <h2>Get your Swift Credit Pay account in minutes</h2>
 
-            <a href="get-started.html" class="btn btn-primary">Get Started</a>
+            <a href="/register" class="btn btn-primary">Get Started</a>
         </div>
     </div>
 </section>
