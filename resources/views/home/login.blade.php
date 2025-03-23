@@ -16,8 +16,8 @@
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
   <!-- Meta Description for Search Engines -->
   <meta name="description"
-    content="Welcome to Astrocreston Union PLC, your trusted online banking platform. Log in securely to manage your account, view balances, make transfers, and access financial services 24/7.">
-  <title>Login | Astrocreston Union PLC</title>
+    content="Welcome toSwift Credit Pay PLC, your trusted online banking platform. Log in securely to manage your account, view balances, make transfers, and access financial services 24/7.">
+  <title>Login |Swift Credit Pay PLC</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="ass/css/app.min.css">
   <link rel="stylesheet" href="ass/bundles/bootstrap-social/bootstrap-social.css">

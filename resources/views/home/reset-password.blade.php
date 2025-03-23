@@ -57,7 +57,7 @@
 
 
 
-                        <p>Please type in the email address linked to your Astrocreston Union PLC account to reset your
+                        <p>Please type in the email address linked to yourSwift Credit Pay PLC account to reset your
                             password.</p>
 
                         <form class="text-left" method="POST" enctype="multipart/form-data">

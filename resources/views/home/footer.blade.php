@@ -6,10 +6,9 @@
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="single-footer-widget">
                     <div class="logo">
-                        <a href="index-2.html"><img src='{{ asset("assets/images/logo/logo.png") }}'
-                                style="width:150px; height:70px;"></a>
+                        <a href="/"><img src="{{asset('uploads/logo.png')}}" style="width:150px; height:70px;"></a>
                         <p align="justify">
-                            Astrocreston Union is a prominent financial institution based in England, with its
+                            Swift Credit Pay is a prominent financial institution based in England, with its
                             headquarters in London. It operates under a commercial banking license issued by the Bank of
                             England, ensuring regulatory compliance and excellence in service delivery.</p>
                     </div>
@@ -46,7 +45,7 @@
                     <ul class="footer-contact-info">
                         <li><span>Location: 221B Baker Street, London, NW1 6XE, United Kingdom</span> </li>
                         <li><span>Email:</span>
-                            <a href="mailto:support@astrocrestonunion.com">support@astrocrestonunion.com</a>
+                            <a href="mailto:support@swiftcreditpay.com ">support@swiftcreditpay.com </a>
                         </li>
                     </ul>
                 </div>
