@@ -37,6 +37,19 @@
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="{{asset('public/uploads/site/favicon.png')}}">
+
+    <!-- Smartsupp Live Chat script -->
+    <script type="text/javascript">
+        var _smartsupp = _smartsupp || {};
+    _smartsupp.key = '0ce855a2f15beef7152bd6ae00e7580701d5924e';
+    window.smartsupp||(function(d) {
+      var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+      s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+      c.type='text/javascript';c.charset='utf-8';c.async=true;
+      c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+    })(document);
+    </script>
+    <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
 </head>
 
 <body>
@@ -75,19 +88,25 @@
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="nav-item"><a href="/" class="nav-link">HOME <i class=""></i></a></li>
-                            <li class="nav-item"><a href="/about" class="nav-link">ABOUT US <i class="fas fa-chevron-down"></i></a>
+                            <li class="nav-item"><a href="/about" class="nav-link">ABOUT US <i
+                                        class="fas fa-chevron-down"></i></a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a href="/about" class="nav-link">About Us</a></li>
                                     <li class="nav-item"><a href="/faq" class="nav-link">FAQ</a></li>
-                                    <li class="nav-item"><a href="/terms-of-service" class="nav-link">Terms of Service</a></li>
-                                    <li class="nav-item"><a href="/privacy-policy" class="nav-link">Privacy Policy</a></li>
+                                    <li class="nav-item"><a href="/terms-of-service" class="nav-link">Terms of
+                                            Service</a></li>
+                                    <li class="nav-item"><a href="/privacy-policy" class="nav-link">Privacy Policy</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a href="/services" class="nav-link">SERVICES <i class=""></i></a></li>
-                            <li class="nav-item"><a href="/contact" class="nav-link">CONTACT US <i class=""></i></a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">LOAN APPLICATION <i class="fas fa-chevron-down"></i></a>
+                            <li class="nav-item"><a href="/contact" class="nav-link">CONTACT US <i class=""></i></a>
+                            </li>
+                            <li class="nav-item"><a href="#" class="nav-link">LOAN APPLICATION <i
+                                        class="fas fa-chevron-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item"><a href="/personal-loan" class="nav-link">Personal Loan</a></li>
+                                    <li class="nav-item"><a href="/personal-loan" class="nav-link">Personal Loan</a>
+                                    </li>
                                     <li class="nav-item"><a href="/services" class="nav-link">Business</a></li>
                                 </ul>
                             </li>

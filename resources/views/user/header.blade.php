@@ -155,10 +155,10 @@
             border-color: #049dff;
         }
     </style>
-    <!-- Smartsupp Live Chat script -->
-    <script type="text/javascript">
-        var _smartsupp = _smartsupp || {};
-    _smartsupp.key = '55e07a61de16f23358195b3afb6662e27d4e1fee';
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+    var _smartsupp = _smartsupp || {};
+    _smartsupp.key = '0ce855a2f15beef7152bd6ae00e7580701d5924e';
     window.smartsupp||(function(d) {
       var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
       s=d.getElementsByTagName('script')[0];c=d.createElement('script');
