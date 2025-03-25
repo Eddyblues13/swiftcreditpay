@@ -91,8 +91,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col-lg-4">
-                                        <img src="https://laystacktb.com/themes/finapp-light/images/happyhome.png"
-                                            width="100%" />
+                                        <img src="{{asset('themes/finapp-light/images/happyhome.png')}}" width="100%" />
                                     </div>
                                     <div class="col-lg-8">
                                         <h2 class="text-primary">Buying a home</h2>
@@ -122,8 +121,7 @@
                                         <a href="{{route('loan.history')}}">Click here to apply</a>
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="https://laystacktb.com/themes/finapp-light/images/mortgage.png"
-                                            width="100%" />
+                                        <img src="{{asset('themes/finapp-light/images/mortgage.png')}}" width="100%" />
                                     </div>
                                 </div>
                             </div>
