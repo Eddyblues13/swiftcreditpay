@@ -81,7 +81,7 @@
             <div class="col-lg-12 col-md-12">
                 <div class="about-content text-center">
 
-                    <a href="login.html" class="btn btn-primary">Apply Now</a>
+                    <a href="/login" class="btn btn-primary">Apply Now</a>
 
                 </div><!-- .about-content -->
             </div><!-- .col-lg-12 -->
