@@ -5,7 +5,7 @@
     <div class="section full bg-primary">
         <!-- carousel single -->
         <div class="carousel-single splide p-2">
-            <div class="splide__track">
+            <div class="splide__track"> 
                 <ul class="splide__list">
                     <li class="splide__slide">
                         <!-- card block -->

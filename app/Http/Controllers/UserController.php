@@ -113,7 +113,7 @@ class UserController extends Controller
         $data['checking_balance'] = CheckingBalance::where('user_id', $user->id)->sum('amount');
 
         $data['currentMonth'] = Carbon::now()->format('M Y'); // Example: "Feb 2025"
-
+ 
         $data['totalSavingsCredit'] = SavingsBalance::whereMonth('created_at', Carbon::now()->month)
             ->whereYear('created_at', Carbon::now()->year)
             ->where('type', 'credit')
